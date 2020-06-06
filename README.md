@@ -9,8 +9,8 @@
 
 |     Date    |                                                    Do!                                                   |      Do this?      | Review |
 |:-----------:|:--------------------------------------------------------------------------------------------------------:|:------------------:|--------|
-| 6/5 금 | [스타트업은 데이터를 어떻게 바라봐야 할까?](https://www.slideshare.net/yongho/ss-32267675) 읽기                                                           | :heavy_check_mark: | [링크](https://github.com/jinmang2/How_to_work_with_data/blob/master/review/week_1.md) |
-| 6/6 토 | [데이터는 차트가 아니라 돈이 되어야 한다.](https://www.slideshare.net/yongho/ss-52116574) 읽기                                                            |                    | [링크] |
+| 6/5 금 | [스타트업은 데이터를 어떻게 바라봐야 할까?](https://www.slideshare.net/yongho/ss-32267675) 읽기                                                           | :heavy_check_mark: | [링크](https://github.com/jinmang2/How_to_work_with_data/blob/master/review/week_1_1.md) |
+| 6/6 토 | [데이터는 차트가 아니라 돈이 되어야 한다.](https://www.slideshare.net/yongho/ss-52116574) 읽기                                                            | :heavy_check_mark: | [링크](https://github.com/jinmang2/How_to_work_with_data/blob/master/review/week_1_2.md) |
 | 6/7 일 | 부교재 `빅데이터를 활용한 예측 마케팅 전략` 1부 1장까지 읽기                                               |                    | [링크] |
 | 6/8 월 | 부교재 `빅데이터를 활용한 예측 마케팅 전략` 1부 2장까지 읽기                                               |                    | [링크] |
 | 6/9 화 | 하버드 비즈니스 리뷰 `Do Your Data Scientists Know the 'Why' Behind Their Work?` 읽기 |                    | [링크] |
