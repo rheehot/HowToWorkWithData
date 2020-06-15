@@ -15,7 +15,7 @@
 | 6/8 월 | 부교재 `빅데이터를 활용한 예측 마케팅 전략` 1부 2장까지 읽기                                               |                    | [링크] |
 | 6/9 화 | 하버드 비즈니스 리뷰 `Do Your Data Scientists Know the 'Why' Behind Their Work?` 읽기 | :heavy_check_mark: | [링크](https://github.com/jinmang2/HowToWorkWithData/blob/master/review/week1_5.md) |
 | 6/10 수 | 주간 과제 제출                                                                                          | :heavy_check_mark: | [링크](https://github.com/jinmang2/HowToWorkWithData/blob/master/assignment/week_1.md)  |
-| 6/11 목 | 온라인 스터디 참여 (22시)                                                                                |                    | [링크] |
+| 6/11 목 | 온라인 스터디 참여 (22시)                                                                                | :heavy_check_mark: | [링크] |
 ```
 CONTENTS
 - 데이터 사이언스라는 업의 구성 요소와 본질
@@ -33,10 +33,10 @@ CONTENTS
 
 |     Date    |                                                    Do!                                                   |      Do this?      | Review |
 |:-----------:|:--------------------------------------------------------------------------------------------------------:|:------------------:|--------|
-| 6/12 금 | [[우리가 데이터를 쓰는 법] 좋다는 건 알겠는데 좀 써보고 싶소. 데이터!](https://www.slideshare.net/Gonnector/ss-60993909) 읽기                                                           | :heavy_check_mark: | [링크] |
-| 6/13 토 |                                                             |  | [링크] |
-| 6/14 일 |                                                |                    | [링크] |
-| 6/15 월 |                                               |                    | [링크] |
+| 6/12 금 | [[우리가 데이터를 쓰는 법] 좋다는 건 알겠는데 좀 써보고 싶소. 데이터!](https://www.slideshare.net/Gonnector/ss-60993909) 읽기                                                           | :heavy_check_mark: | [링크](https://github.com/jinmang2/HowToWorkWithData/blob/master/review/week2_1.md) |
+| 6/13 토 | 부교재 `빅데이터를 활용한 예측 마케팅 전략` 3, 4장까지 읽기 |  | [링크] |
+| 6/14 일 | 부교재 `빅데이터를 활용한 예측 마케팅 전략` 5, 6장까지 읽기 |                    | [링크] |
+| 6/15 월 | [그로스해킹은 왜 떴고 어떤 절차로 진행되나](https://drive.google.com/file/d/1-xEE1IaGC0EFPyFSp7w7ZyHHaTwTQV8r/view) | :heavy_check_mark: | [링크](https://github.com/jinmang2/HowToWorkWithData/blob/master/review/week2_4.md) |
 | 6/16 화 |  |  | [링크] |
 | 6/17 수 | 주간 과제 제출                                                                                          |  | [링크]  |
 | 6/18 목 | 온라인 스터디 참여 (22시)                                                                                |                    | [링크] |
